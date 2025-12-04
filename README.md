@@ -59,3 +59,8 @@ Las tecnologías previstas para el backend serán:
 | Usuario    | Crear pecera, añadir peces, personalizar fondo |  
 | Moderador  | Supervisar contenido, gestionar comunidad      |  
 | Administrador | Control total del sistema, base de datos     |  
+
+# Página y herramienta de referencia
+Antiguamente había un juego de moviles llamado [fish life](https://fish-live.en.softonic.com/android).
+Para hacer el código usaría github 
+![logo github](https://yt3.googleusercontent.com/PKRBxhCiGa8Y0vPmHa1E2cdjpLhUq2Pl-gESwP7kk2plGgxLdsbjyTd9VjcJwBMiY0HQ8bvx5Q=s900-c-k-c0x00ffffff-no-rj)
