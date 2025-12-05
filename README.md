@@ -60,7 +60,10 @@ Las tecnologías previstas para el backend serán:
 | Moderador  | Supervisar contenido, gestionar comunidad      |  
 | Administrador | Control total del sistema, base de datos     |  
 
-# Página y herramienta de referencia
+## Página y herramienta de referencia
 - Antiguamente había un juego de moviles llamado [fish life](https://fish-live.en.softonic.com/android).
 - Para hacer el código usaría github 
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png)](https://github.com/)
+
+## Logo
+El logo por ahora de Pecera Virtual será ![Logo provisional](Images/logo%20provisional%20pecera%20virtual.png)
