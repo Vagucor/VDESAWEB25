@@ -14,4 +14,4 @@ La **pecera digital** incluye un sistema de *cuidado de peces* que permite al us
 3. Realiza la acción de limpieza periódicamente.
 4. Observa cómo los peces crecen.
 
-Si quieres volver al Readme [pulsa aquí](./readme.md)
+Si quieres volver al Readme [pulsa aquí](./README.md)
