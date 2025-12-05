@@ -66,4 +66,4 @@ Las tecnologías previstas para el backend serán:
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png)](https://github.com/)
 
 ## Logo
-El logo por ahora de Pecera Virtual será ![Logo provisional](Images/logo%20provisional%20pecera%20virtual.png)
+El logo por ahora de Pecera Virtual será ![Logo provisional](images/logo-provisional-pecera-digital.png)
