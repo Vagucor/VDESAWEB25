@@ -15,6 +15,8 @@ Entre las funcionalidades más destacadas:
 - Restricciones según el tipo de pez (agua dulce, salada, fría o tropical).  
 - Cuidado de los peces: alimentación y limpieza de la pecera.  
 
+[Ver el detalle funcional](./detalle-funcional.md)
+
 ### Pasos de uso  
 1. **Configura** tu pecera inicial (tipo de agua, temperatura, decoración).  
 2. **Consigue** peces y objetos mediante el sistema de recompensas.  
@@ -67,3 +69,5 @@ Las tecnologías previstas para el backend serán:
 
 ## Logo
 El logo por ahora de Pecera Virtual será ![Logo provisional](Images/Logo-provisional-pecera-digital.png)
+
+
